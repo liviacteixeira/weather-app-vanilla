@@ -14,6 +14,7 @@ ul {
   color: white;
   list-style: none;
   padding: 0;
+  text-transform: capitalize;
 }
 
 small {
@@ -50,6 +51,12 @@ small {
   font-size: 80px;
   margin-left: 10px;
   line-height: 1;
+}
+
+.degree {
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  opacity: 0.5;
 }
 
 .link-git {
